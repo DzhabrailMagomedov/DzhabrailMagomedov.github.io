@@ -1,0 +1,27 @@
+body {
+	padding: 0;
+	margin: 0;
+
+}
+section#main {
+	background-color: #aaa;
+}
+
+section#img {
+ 	background-color: #eaa;
+}
+img {
+	width: 250px;
+	}
+section#example_1 {
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+section#example_2 {
+	background-image: url(../img/pattern.jpg);
+	background-repeat: repeat;
+	height: 100vh;
+	
+
+}
